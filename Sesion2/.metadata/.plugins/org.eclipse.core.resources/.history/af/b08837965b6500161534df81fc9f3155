@@ -55,7 +55,7 @@ public class Fruta {
 // Override: Es que todos los elementos que son heredados. Tambien los puedes sobreescribir
 // super: hacer referencia a esa clase padre 
 	
-	// to + (ctrl + barra espaciadora) + to(String)
+	/ to + (ctrl + barra espaciadora) + to(String)
 	// Override: Es que todos los elementos que son heredados. Tambien los puedes sobreescribir
 	// super: hacer referencia a esa clase padre 
 	@Override

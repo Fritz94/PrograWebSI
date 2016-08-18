@@ -54,10 +54,6 @@ public class Fruta {
 // to + (ctrl + barra espaciadora) + to(String)
 // Override: Es que todos los elementos que son heredados. Tambien los puedes sobreescribir
 // super: hacer referencia a esa clase padre 
-	
-	// to + (ctrl + barra espaciadora) + to(String)
-	// Override: Es que todos los elementos que son heredados. Tambien los puedes sobreescribir
-	// super: hacer referencia a esa clase padre 
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
